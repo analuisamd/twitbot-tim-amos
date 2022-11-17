@@ -1,4 +1,4 @@
-# twitbot-tih
+# twitbot-tim-amos
 
 A Twitter bot that tweets a message of love everyday
 
