@@ -44,7 +44,7 @@ step.
 5. In virtual environment, run 'python tim_amos.py' to tweet.
 
 6. (Optional) Create a cron job to invoke the bot once a day.
-[twitbot-tih-run.sh](twitbot-tih-run.sh) shows an example script that can be
+[twitbot-tih-run.sh](twitbot-tim-amos.sh) shows an example script that can be
 called within the cronjob.
 
 7. To uninstall, `deactivate` from the virtual environment if needed, and do
