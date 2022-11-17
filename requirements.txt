@@ -1,0 +1,7 @@
+--index-url https://pypi.python.org/simple/
+
+setuptools
+# workaround bug https://stackoverflow.com/questions/34869597/wikipedia-api-for-python
+pyOpenSSL
+ndg-httpsclient
+pyasn1
