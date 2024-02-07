@@ -46,7 +46,7 @@ def get_tweet_str():
     today_str = get_today_str()
     tweet_str = 'Nothing to tweet today. #' + today_str
     
-    tim_amos_list = ["tim amos lilis", "i know nobody understands me like you do", "You know, when I'm with you I'm so much happier", "tim amos liliquinhas"] 
+    tim_amos_list = ["teste de ide", "i know nobody understands me like you do", "You know, when I'm with you I'm so much happier", "tim amos liliquinhas"]
     list_size = len(tim_amos_list)
     if list_size == 0:
         return tweet_str
